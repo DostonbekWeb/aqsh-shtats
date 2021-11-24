@@ -1,0 +1,17 @@
+body{
+    font-size: 20px;
+    font-weight: bold;
+    font-style:italic;
+}
+p{
+    font-style: normal;
+}
+.font{
+    background-color:cyan;
+}
+.matn{
+    font-size: 25px;
+}
+h3{
+    font-family: times new roman; text-align: center; box-shadow: tomato; box-sizing: content-box;
+}
